@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "name": "Grilled Salmon",
+    "description": "Fresh Atlantic salmon grilled to perfection, served with asparagus and mashed potatoes",
+    "type": "PRODUCT",
+    "price": 23.99
+  },
+  {
+    "id": 2,
+    "name": "Caprese Salad",
+    "description": "Fresh tomato and mozzarella salad with basil and balsamic glaze",
+    "type": "PRODUCT",
+    "price": 12.99
+  },
+  {
+    "id": 3,
+    "name": "Spaghetti Bolognese",
+    "description": "Delicious spaghetti bolognese topped with parmesan cheese",
+    "type": "PRODUCT",
+    "price": 12.99
+  },
+  {
+    "id": 4,
+    "name": "Bacon Cheeseburger",
+    "description": "Juicy burger with lettuce, tomato, and bacon served with a side of fries",
+    "type": "PRODUCT",
+    "price": 9.99
+  },
+  {
+    "id": 5,
+    "name": "Chicken Wings",
+    "description": "Crispy chicken wings tossed in your choice of sauce",
+    "type": "PRODUCT",
+    "price": 8.99
+  },
+  {
+    "id": 6,
+    "name": "Fresh Lemonade",
+    "description": "Refreshing lemonade made with fresh squeezed lemons",
+    "type": "SERVICE",
+    "price": 3.99
+  },
+  {
+    "id": 7,
+    "name": "Apple Pie",
+    "description": "Warm apple pie served with a scoop of vanilla ice cream",
+    "type": "PRODUCT",
+    "price": 6.99
+  },
+  {
+    "id": 8,
+    "name": "Shrimp Pad Thai",
+    "description": "Tasty pad thai with shrimp and vegetables",
+    "type": "PRODUCT",
+    "price": 14.99
+  },
+  {
+    "id": 9,
+    "name": "Tomato Soup",
+    "description": "Creamy tomato soup with a grilled cheese sandwich",
+    "type": "PRODUCT",
+    "price": 7.99
+  },
+  {
+    "id": 10,
+    "name": "Chicken Caesar Salad",
+    "description": "Classic Caesar salad with grilled chicken",
+    "type": "PRODUCT",
+    "price": 10.99
+  },
+  {
+    "id": 11,
+    "name": "Chocolate Cake",
+    "description": "Rich chocolate cake with a chocolate ganache",
+    "type": "PRODUCT",
+    "price": 8.99
+  },
+  {
+    "id": 12,
+    "name": "Watermelon Salad",
+    "description": "Cool and refreshing watermelon salad with feta cheese",
+    "type": "PRODUCT",
+    "price": 6.99
+  },
+  {
+    "id": 13,
+    "name": "Mushroom Risotto",
+    "description": "Savory mushroom risotto with parmesan cheese",
+    "type": "PRODUCT",
+    "price": 11.99
+  },
+  {
+    "id": 14,
+    "name": "Pancakes",
+    "description": "Fluffy buttermilk pancakes with maple syrup",
+    "type": "PRODUCT",
+    "price": 5.99
+  },
+  {
+    "id": 15,
+    "name": "Garlic Bread",
+    "description": "Freshly baked garlic bread with a side of marinara sauce",
+    "type": "PRODUCT",
+    "price": 3.99
+  },
+  {
+    "id": 16,
+    "name": "Avocado Toast",
+    "description": "Creamy avocado toast with a poached egg",
+    "type": "PRODUCT",
+    "price": 7.99
+  },
+  {
+    "id": 17,
+    "name": "Hawaiian Pizza",
+    "description": "Sweet and savory Hawaiian pizza with ham and pineapple",
+    "type": "PRODUCT",
+    "price": 13.99
+  },
+  {
+    "id": 18,
+    "name": "Buffalo Chicken Sandwich",
+    "description": "Spicy buffalo chicken sandwich with blue cheese dressing",
+    "type": "PRODUCT",
+    "price": 9.99
+  },
+  {
+    "id": 19,
+    "name": "Barbecue Ribs",
+    "description": "Tangy barbecue ribs served with coleslaw and cornbread",
+    "type": "PRODUCT",
+    "price": 18.99
+  },
+  {
+    "id": 20,
+    "name": "Mac and Cheese",
+    "description": "Creamy macaroni and cheese with a crispy breadcrumb topping",
+    "type": "PRODUCT",
+    "price": 8.99
+  },
+  {
+    "id": 21,
+    "name": "Beef Stew",
+    "description": "Hearty beef stew with carrots and potatoes",
+    "type": "PRODUCT",
+    "price": 12.99
+  },
+  {
+    "id": 22,
+    "name": "Iced Tea",
+    "description": "Refreshing iced tea with a lemon wedge",
+    "type": "SERVICE",
+    "price": 2.99
+  },
+  {
+    "id": 23,
+    "name": "Fish and Chips",
+    "description": "Crispy fish and chips with tartar sauce",
+    "type": "PRODUCT",
+    "price": 11.99
+  },
+  {
+    "id": 24,
+    "name": "Lamb Kebab",
+    "description": "Flavorful lamb kebab served with rice pilaf",
+    "type": "PRODUCT",
+    "price": 16.99
+  },
+  {
+    "id": 25,
+    "name": "Spinach and Artichoke Dip",
+    "description": "Creamy spinach and artichoke dip with tortilla chips",
+    "type": "PRODUCT",
+    "price": 7.99
+  },
+  {
+    "id": 26,
+    "name": "Chicken Alfredo",
+    "description": "Satisfying chicken alfredo with fettuccine noodles",
+    "type": "PRODUCT",
+    "price": 12.99
+  },
+  {
+    "id": 27,
+    "name": "Honey Glazed Salmon",
+    "description": "Sweet and spicy honey glazed salmon with roasted vegetables",
+    "type": "PRODUCT",
+    "price": 17.99
+  },
+  {
+    "id": 28,
+    "name": "Tiramisu",
+    "description": "Creamy and decadent tiramisu with espresso and mascarpone",
+    "type": "PRODUCT",
+    "price": 8.99
+  },
+  {
+    "id": 29,
+    "name": "Shepherds Pie",
+    "description": "Savory and filling shepherds pie with beef and mashed potatoes",
+    "type": "PRODUCT",
+    "price": 11.99
+  },
+  {
+    "id": 30,
+    "name": "Quinoa Bowl",
+    "description": "Healthy and colorful quinoa bowl with roasted vegetables and avocado",
+    "type": "PRODUCT",
+    "price": 9.99
+  },
+  {
+    "id": 31,
+    "name": "Chicken Pot Pie",
+    "description": "Warm and comforting chicken pot pie with flaky crust",
+    "type": "PRODUCT",
+    "price": 13.99
+  },
+  {
+    "id": 32,
+    "name": "Beef Burger",
+    "description": "Satisfying and flavorful beef burger with caramelized onions and bacon",
+    "type": "PRODUCT",
+    "price": 10.99
+  },
+  {
+    "id": 33,
+    "name": "Greek Salad",
+    "description": "Refreshing and crisp Greek salad with feta cheese and olives",
+    "type": "PRODUCT",
+    "price": 8.99
+  },
+  {
+    "id": 34,
+    "name": "Beef Curry",
+    "description": "Spicy and flavorful beef curry with basmati rice",
+    "type": "PRODUCT",
+    "price": 15.99
+  },
+  {
+    "id": 35,
+    "name": "Shrimp Ceviche",
+    "description": "Light and refreshing shrimp ceviche with avocado and lime",
+    "type": "PRODUCT",
+    "price": 7.99
+  },
+  {
+    "id": 36,
+    "name": "Tomato and Basil Soup",
+    "description": "Warm and filling tomato and basil soup with grilled cheese",
+    "type": "PRODUCT",
+    "price": 6.99
+  },
+  {
+    "id": 37,
+    "name": "Chicken Shawarma Wrap",
+    "description": "Tasty and satisfying chicken shawarma wrap with tzatziki sauce",
+    "type": "PRODUCT",
+    "price": 9.99
+  },
+  {
+    "id": 38,
+    "name": "Belgian Waffle",
+    "description": "Sweet and fluffy Belgian waffle with whipped cream and berries",
+    "type": "PRODUCT",
+    "price": 7.99
+  },
+  {
+    "id": 39,
+    "name": "Vegetable Biryani",
+    "description": "Savory and aromatic vegetable biryani with raita",
+    "type": "PRODUCT",
+    "price": 10.99
+  },
+  {
+    "id": 40,
+    "name": "Lobster Mac and Cheese",
+    "description": "Creamy and indulgent lobster mac and cheese",
+    "type": "PRODUCT",
+    "price": 22.99
+  },
+  {
+    "id": 41,
+    "name": "Cucumber and Dill Salad",
+    "description": "Light and refreshing cucumber and dill salad with yogurt dressing",
+    "type": "PRODUCT",
+    "price": 5.99
+  },
+  {
+    "id": 42,
+    "name": "Lasagna",
+    "description": "Satisfying and filling lasagna with meat sauce and ricotta cheese",
+    "type": "PRODUCT",
+    "price": 14.99
+  },
+  {
+    "id": 43,
+    "name": "Chicken and Dumplings Soup",
+    "description": "Warm and comforting chicken and dumplings soup",
+    "type": "PRODUCT",
+    "price": 8.99
+  },
+  {
+    "id": 44,
+    "name": "Jambalaya",
+    "description": "Flavorful and spicy jambalaya with sausage and shrimp",
+    "type": "PRODUCT",
+    "price": 16.99
+  },
+  {
+    "id": 45,
+    "name": "Roasted Vegetable and Quinoa Salad",
+    "description": "Healthy and delicious roasted vegetable and quinoa salad",
+    "type": "PRODUCT",
+    "price": 9.99
+  },
+  {
+    "id": 46,
+    "name": "Chocolate Truffles",
+    "description": "Decadent and rich chocolate truffles with assorted flavors",
+    "type": "PRODUCT",
+    "price": 6.99
+  },
+  {
+    "id": 47,
+    "name": "Lemon and Herb Chicken",
+    "description": "Refreshing and tangy lemon and herb chicken with roasted potatoes",
+    "type": "PRODUCT",
+    "price": 12.99
+  },
+  {
+    "id": 48,
+    "name": "Beef Enchiladas",
+    "description": "Spicy and flavorful beef enchiladas with rice and beans",
+    "type": "PRODUCT",
+    "price": 10.99
+  },
+  {
+    "id": 49,
+    "name": "Chicken Fried Rice",
+    "description": "Savory and filling chicken fried rice with vegetables",
+    "type": "PRODUCT",
+    "price": 8.99
+  },
+  {
+    "id": 50,
+    "name": "Beef Stroganoff",
+    "description": "Warm and comforting beef stroganoff with egg noodles",
+    "type": "PRODUCT",
+    "price": 13.99
+  }
+]

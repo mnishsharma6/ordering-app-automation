@@ -1,0 +1,5 @@
+robotframework==6.0.1
+robotframework-requests==0.9.4
+robotframework-pabot==2.8.0
+jsondiff==2.0.0
+robotframework-jsonlibrary==0.5

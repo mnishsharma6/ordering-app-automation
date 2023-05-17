@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Grilled Salmon",
+    "description": "Fresh Atlantic salmon grilled to perfection, served with asparagus and mashed potatoes",
+    "type": "PRODUCT",
+    "price": 23.99
+  }
+]
