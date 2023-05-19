@@ -1,19 +1,19 @@
 name: Robot Framework Tests
-
 on:
   push:
     branches:
       - main
-  pull_request:
-    branches:
-      - main
 
 jobs:
-  test:
-    runs-on: windows-latest
+  TestInDevEnv :
+    name: Deploy To Dev Environment
+    runs-on: ${{matrix.os}}
+    strategy:
+      matrix:
+          os: [windows-latest, macOS-latest]
 
     steps:
-    - name: Checkout code
+    - name: Checkout food-ordering-app code
       uses: actions/checkout@v2
 
     - name: Set up Python
