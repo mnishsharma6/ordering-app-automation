@@ -29,23 +29,23 @@ Open Home Page
 
 
 Select Product And Add To Cart
-    Click Element    xpath=/html/body/app-root/app-food-list/div/div/div[1]/div/div/button
+    Click Element    xpath=//div[@class='container my-3']//div[1]//div[1]//div[1]//button[1]
     Sleep   ${wait_time}
 
 Click Cart Icon
-    Click Element    xpath=//*[@id="navbarNav"]/ul/li[2]/a
+    Click Element    xpath=//i[@class='bi bi-cart cart-icon']
     Sleep   ${wait_time}
 
 Verify Item Is Added Successfully And Price Is Correct
-    ${item_name}=    Get Text    xpath=/html/body/app-root/app-shopping-cart/div/div/div/div[2]/table/tbody/tr/td[1]
-    Should Not Be Empty    ${item_name}
-    ${item_price}=    Get Text    xpath=/html/body/app-root/app-shopping-cart/div/div/div/div[2]/table/tbody/tr/td[2]
+    ${item_name}=    Get Text    xpath=//td[text()='Grilled Salmon']
+    Should Be Equal As Strings    ${item_name}    Grilled Salmon
+    ${item_price}=    Get Text    xpath=//tr[@class='cart-item ng-star-inserted']/td[2]
     Should Be Equal As Strings    ${item_price}    $23.99
     Sleep   2s
     Take Screenshot
 
 Click Checkout Button
-    Click Element    xpath=//*[text()='Checkout']
+    Click Element    xpath=//button[@class='btn btn-primary']
     Sleep   2s
 
 Verify Order Placed Successfully

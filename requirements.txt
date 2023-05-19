@@ -5,3 +5,4 @@ jsondiff==2.0.0
 deepdiff==6.2.1
 robotframework-jsonlibrary==0.5
 robotframework-seleniumlibrary==6.0.0
+Pillow==9.5.0
