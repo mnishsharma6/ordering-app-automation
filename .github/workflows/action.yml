@@ -10,7 +10,7 @@ jobs:
     runs-on: ${{matrix.os}}
     strategy:
       matrix:
-          os: [ubantu-latest]
+          os: [ubuntu-latest]
 
     steps:
     - name: Checkout food-ordering-app code
