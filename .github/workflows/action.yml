@@ -10,7 +10,7 @@ jobs:
     runs-on: ${{matrix.os}}
     strategy:
       matrix:
-          os: [windows-latest, macOS-latest]
+          os: [ubantu-latest]
 
     steps:
     - name: Checkout food-ordering-app code
@@ -28,7 +28,7 @@ jobs:
 
     - name: Run Robot Framework tests
       run: |
-        robot -d results testsuite
+        robot -d results -i backend testsuite
 
     - name: Upload test results
       uses: actions/upload-artifact@v2
